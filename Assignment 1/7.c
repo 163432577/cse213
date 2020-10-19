@@ -1,3 +1,10 @@
+/*
+List All Character and Integer Data Types Maximum and Minimum Value (i.e. Range)
+a variable can store (Use limits.h).
+Full Name : Md.Shahiduzzaman Sakib
+ID: 163432577
+*/
+
 #include <stdio.h>
 #include <limits.h>
 
