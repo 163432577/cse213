@@ -3,7 +3,7 @@
 </h1>
 
 # cse213
-## [Assignment 1](Assignment 1)
+## [Lab Assignment 1](Assignment 1)
 * Maximum 
 * Minimum
 * Summation
