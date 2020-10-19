@@ -4,9 +4,6 @@
 
 # cse213
 ## Assignment 1
-* Maximum 
-* Minimum
-* Summation
-* Average
-* Standard Deviation
-* Fibonacci Number
+* Character and Integer Data Types
+* Character Data Types Maximum and Minimum Value(Range)
+* Integer Data Types Maximum and Minimum Value(Range)
